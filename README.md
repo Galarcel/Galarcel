@@ -1,4 +1,5 @@
 ### Hi there 👋
+I think fried chicken is quite good
 
 <!--
 Hullo!
