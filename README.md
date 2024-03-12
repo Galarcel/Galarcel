@@ -1,7 +1,5 @@
-### Hi there 👋
-I think fried chicken is quite good
-
+### Hullo!👋🏼🥸
+I am a new developer looking for fun projects.
 <!--
-Hullo!
-I am a new developer looking for fun projects. 
+Will add more to this description (mebe) soon 
 -->
