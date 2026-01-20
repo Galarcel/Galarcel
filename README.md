@@ -1,5 +1,5 @@
 ### Hello👋🥸
-I am a new developer looking for fun projects.
+I'm a software enthusiast always on the lookout for fun projects
 <!--
 Will add more to this description (mebe) soon 
 Also, here's this cool profile statistics thing I got from Hummel009:
